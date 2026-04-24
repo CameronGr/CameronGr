@@ -24,8 +24,4 @@
   <img src="https://lanyard.cnrad.dev/api/279054249919381505?borderRadius=5px&theme=dark&bg=00000000&hideSpotify=false&animated=true" width="500" alt="Discord Status"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=tacotakedown" alt="Profile Views"/>
-
 </div>
