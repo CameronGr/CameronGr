@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**CameronGr/CameronGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Cameron</h1>
 
-Here are some ideas to get you started:
+<p>
+  CS student based in Arizona 🌵<br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=archlinux" /><br/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=rust,cpp,csharp,typescript,golang,python,html,sass,lua" /><br/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=cmake,dotnet,reactjs,solidjs,tailwindcss,vite,qtwidgets,tauri,webassembly" /><br/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=neovim,zed" />
+
+---
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-weld-six.vercel.app/api?username=camerongr&include_orgs=true&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent&locale=en&card_width=412" height="250" alt="GitHub Stats" />
+  <img src="https://github-readme-weld-six.vercel.app/api/top-langs?username=camerongr&locale=en&size_weight=0.2&count_weight=0.7&hide_progress=false&hide_title=false&exclude_repo=osu&hide=Cmake,HTML,CSS,JavaScript,SCSS,Powershell,Shell&layout=compact&langs_count=6&theme=transparent&hide_border=true&card_width=400" height="250" alt="Top Languages" />
+</div>
+
+<a href="https://discord.com/users/279054249919381505">
+  <img src="https://lanyard.cnrad.dev/api/279054249919381505?borderRadius=5px&theme=dark&bg=00000000&hideSpotify=false&animated=true" width="500" alt="Discord Status"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tacotakedown" alt="Profile Views"/>
+
+</div>
